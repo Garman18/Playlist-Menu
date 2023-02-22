@@ -142,3 +142,10 @@ Song Length (in seconds): 197
 Ex:
 OUTPUT TOTAL TIME OF PLAYLIST (IN SECONDS)
 Total time: 1461 seconds
+
+--------------------------------------------------------------
+
+Example Screenshot of program:
+
+
+<img width="331" alt="Screenshot_20230222_030600" src="https://user-images.githubusercontent.com/102873027/220783881-c570f445-998f-425f-b8ea-c7802bc7b9d0.png">
