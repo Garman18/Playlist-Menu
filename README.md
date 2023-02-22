@@ -1,7 +1,7 @@
 (1) Create three files.
 
-Playlist.h - Class declaration
-Playlist.cpp - Class definition
+Playlist.h - Class declaration,
+Playlist.cpp - Class definition,
 main.cpp - main() function to run
 
 (2) Build the PlaylistNode class.
@@ -10,13 +10,13 @@ Default constructor
 Parameterized constructor
 
 Public member functions:
-InsertAfter() 
-SetNext() - Mutator 
-GetID() - Accessor
-GetSongName() - Accessor
-GetArtistName() - Accessor
-GetSongLength() - Accessor
-GetNext() - Accessor
+InsertAfter(),
+SetNext() - Mutator,
+GetID() - Accessor,
+GetSongName() - Accessor,
+GetArtistName() - Accessor,
+GetSongLength() - Accessor,
+GetNext() - Accessor,
 PrintPlaylistNode()
 
 Private data members:
@@ -142,6 +142,8 @@ Song Length (in seconds): 197
 Ex:
 OUTPUT TOTAL TIME OF PLAYLIST (IN SECONDS)
 Total time: 1461 seconds
+
+</pre>
 
 --------------------------------------------------------------
 
