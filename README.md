@@ -58,7 +58,9 @@ Choose an option:
 (4) Implement "Output full playlist" menu option. If the list is empty, output: Playlist is empty 
 
 Ex:
+
 JAMZ - OUTPUT FULL PLAYLIST
+
 1.
 Unique ID: SD123
 Song Name: Peg
