@@ -149,5 +149,44 @@ Total time: 1461 seconds
 
 Example Screenshot of program:
 
+* Menu
+<img width="265" alt="Screenshot 2023-03-19 190345" src="https://user-images.githubusercontent.com/102873027/226230227-0e5877aa-afd4-4f1d-9326-e9be3f8a1cb9.png">
 
-<img width="331" alt="Screenshot_20230222_030600" src="https://user-images.githubusercontent.com/102873027/220783881-c570f445-998f-425f-b8ea-c7802bc7b9d0.png">
+------------------------
+
+* Option a (add a song)
+
+<img width="237" alt="Screenshot 2023-03-19 190428" src="https://user-images.githubusercontent.com/102873027/226230395-ad0559b2-7a78-47b5-8ffa-86ed2c730449.png">
+
+---------------
+
+* Option o (output full playlist)
+
+<img width="182" alt="Screenshot 2023-03-19 190458" src="https://user-images.githubusercontent.com/102873027/226230545-e8046548-8795-4a34-a7e1-1d8b1f97f76d.png">
+
+--------------------------
+
+* Option c (change the postion)
+
+<img width="199" alt="Screenshot 2023-03-19 190516" src="https://user-images.githubusercontent.com/102873027/226230659-da1cd042-7d87-4ff3-b41d-54e7b034b305.png">
+
+-------------------
+
+* Option t (output legnth of playlist in seconds)
+
+<img width="250" alt="Screenshot 2023-03-19 190534" src="https://user-images.githubusercontent.com/102873027/226230813-d53edc60-9357-4fcf-8cfc-7ce7b7395465.png">
+
+------------------
+
+* Option d (delete a song)
+<img width="234" alt="Screenshot 2023-03-19 190549" src="https://user-images.githubusercontent.com/102873027/226230858-8ec96e17-9618-47d1-be94-ebd713707704.png">
+
+
+
+
+
+
+
+
+
+
